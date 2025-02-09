@@ -3,13 +3,11 @@ class MyStack {
     public ArrayList<Integer> arr;
 
     public MyStack() {
-        this.arr= new ArrayList<>();
-        
+        this.arr= new ArrayList<>();    
     }
     
     public void push(int x) {
-        this.arr.add(x);
-        
+        this.arr.add(x);   
     }
     
     public int pop() {
