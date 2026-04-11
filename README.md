@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/hetvi955/Leetcode-questions/tree/main/0091-decode-ways/) | Medium |
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/hetvi955/Leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
 ## Two Pointers
@@ -56,5 +57,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/hetvi955/Leetcode-questions/tree/main/0091-decode-ways/) | Medium |
 | [0647-palindromic-substrings](https://github.com/hetvi955/Leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
 <!---LeetCode Topics End-->
