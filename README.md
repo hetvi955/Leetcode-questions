@@ -48,4 +48,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
+| [0647-palindromic-substrings](https://github.com/hetvi955/Leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/hetvi955/Leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/hetvi955/Leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
 <!---LeetCode Topics End-->
