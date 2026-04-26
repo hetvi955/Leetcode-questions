@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/hetvi955/Leetcode-questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/hetvi955/Leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/hetvi955/Leetcode-questions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/hetvi955/Leetcode-questions/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
 | [0647-palindromic-substrings](https://github.com/hetvi955/Leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/hetvi955/Leetcode-questions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
