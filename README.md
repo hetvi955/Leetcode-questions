@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/hetvi955/Leetcode-questions/tree/main/0055-jump-game/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/hetvi955/Leetcode-questions/tree/main/0055-jump-game/) | Medium |
 | [0091-decode-ways](https://github.com/hetvi955/Leetcode-questions/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -81,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/hetvi955/Leetcode-questions/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
