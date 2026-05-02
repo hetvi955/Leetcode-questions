@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/hetvi955/Leetcode-questions/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/hetvi955/Leetcode-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/hetvi955/Leetcode-questions/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/hetvi955/Leetcode-questions/tree/main/0055-jump-game/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/hetvi955/Leetcode-questions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
