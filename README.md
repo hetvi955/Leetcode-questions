@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/hetvi955/Leetcode-questions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/hetvi955/Leetcode-questions/tree/main/0055-jump-game/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/hetvi955/Leetcode-questions/tree/main/0056-merge-intervals/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -102,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hetvi955/Leetcode-questions/tree/main/0048-rotate-image/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
