@@ -9,11 +9,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/hetvi955/Leetcode-questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hetvi955/Leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hetvi955/Leetcode-questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hetvi955/Leetcode-questions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hetvi955/Leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hetvi955/Leetcode-questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/hetvi955/Leetcode-questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hetvi955/Leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hetvi955/Leetcode-questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -64,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/hetvi955/Leetcode-questions/tree/main/0055-jump-game/) | Medium |
 | [0091-decode-ways](https://github.com/hetvi955/Leetcode-questions/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hetvi955/Leetcode-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hetvi955/Leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
