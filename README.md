@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/hetvi955/Leetcode-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/hetvi955/Leetcode-questions/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hetvi955/Leetcode-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/hetvi955/Leetcode-questions/tree/main/0055-jump-game/) | Medium |
 | [0091-decode-ways](https://github.com/hetvi955/Leetcode-questions/tree/main/0091-decode-ways/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hetvi955/Leetcode-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
