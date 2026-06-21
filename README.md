@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/hetvi955/Leetcode-questions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hetvi955/Leetcode-questions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hetvi955/Leetcode-questions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/hetvi955/Leetcode-questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hetvi955/Leetcode-questions/tree/main/0048-rotate-image/) | Medium |
+| [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/hetvi955/Leetcode-questions/tree/main/0076-minimum-window-substring/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
