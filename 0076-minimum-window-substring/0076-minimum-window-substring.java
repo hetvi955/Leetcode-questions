@@ -1,50 +1,39 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if(s.length()< t.length()) return "";
+        if (s.length() < t.length()) return "";
 
-        //what we need int the window
-        Map<Character, Integer> need= new HashMap<>();
+        Map<Character, Integer> need = new HashMap<>();
+        for (char c : t.toCharArray())
+            need.put(c, need.getOrDefault(c, 0) + 1);
 
-        for(char c: t.toCharArray()){
-            need.put(c, need.getOrDefault(c, 0) +1);
-        }
+        Map<Character, Integer> window = new HashMap<>();
+        int resStart = 0, resLen = Integer.MAX_VALUE;
+        int start = 0, matched = 0;
 
-        //what we have in the window
-        Map<Character, Integer> window= new HashMap<>();
+        for (int end = 0; end < s.length(); end++) {
+            char c = s.charAt(end);
+            window.put(c, window.getOrDefault(c, 0) + 1);
 
-        int resStart=0;
-        int start=0;
-        int reslen=Integer.MAX_VALUE;
-        int matched=0;
+            if (need.containsKey(c) && window.get(c).equals(need.get(c)))
+                matched++;
 
-        for(int end=0; end<s.length(); end++){
-            char c= s.charAt(end);
-            window.put(c, window.getOrDefault(c, 0) +1);
-
-
-            if(need.containsKey(c) && window.get(c).equals(need.get(c))) matched++;
-
-
-            while(matched==need.size()){
-                if(end-start + 1 <reslen){
-                    reslen= end-start +1;
-                    resStart=start;
+            while (matched == need.size()) {
+                // 1. save first
+                if (end - start + 1 < resLen) {
+                    resLen = end - start + 1;
+                    resStart = start;
                 }
-
-                // remove leftmost char from window
-                char left= s.charAt(start);
-                window.put(left, window.get(left)-1);
-
-                // if removing it broke a match, update matched
-                if(need.containsKey(left) && window.get(left) < need.get(left)){
-                    matched--;
+                // 2. shrink
+                char left = s.charAt(start);
+                if (!need.containsKey(left) || window.get(left) > need.get(left)) {
+                    window.put(left, window.get(left) - 1);
+                    start++;
+                } else {
+                    break; // 3. stop
                 }
-
-                start++;
             }
         }
 
-               return reslen == Integer.MAX_VALUE ? "" : s.substring(resStart, resStart + reslen);
-
+        return resLen == Integer.MAX_VALUE ? "" : s.substring(resStart, resStart + resLen);
     }
 }
