@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/hetvi955/Leetcode-questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
 ## Divide and Conquer
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/hetvi955/Leetcode-questions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/hetvi955/Leetcode-questions/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/hetvi955/Leetcode-questions/tree/main/0139-word-break/) | Medium |
 | [0647-palindromic-substrings](https://github.com/hetvi955/Leetcode-questions/tree/main/0647-palindromic-substrings/) | Medium |
@@ -114,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0047-permutations-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/hetvi955/Leetcode-questions/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
