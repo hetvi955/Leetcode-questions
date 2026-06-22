@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/hetvi955/Leetcode-questions/tree/main/0994-rotting-oranges/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/hetvi955/Leetcode-questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/hetvi955/Leetcode-questions/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hetvi955/Leetcode-questions/tree/main/0048-rotate-image/) | Medium |
 | [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/hetvi955/Leetcode-questions/tree/main/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
