@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/hetvi955/Leetcode-questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/hetvi955/Leetcode-questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/hetvi955/Leetcode-questions/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hetvi955/Leetcode-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hetvi955/Leetcode-questions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/hetvi955/Leetcode-questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,10 +111,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/hetvi955/Leetcode-questions/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/hetvi955/Leetcode-questions/tree/main/0056-merge-intervals/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/hetvi955/Leetcode-questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/hetvi955/Leetcode-questions/tree/main/0048-rotate-image/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/hetvi955/Leetcode-questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +135,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/hetvi955/Leetcode-questions/tree/main/0695-max-area-of-island/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/hetvi955/Leetcode-questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/hetvi955/Leetcode-questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/hetvi955/Leetcode-questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
